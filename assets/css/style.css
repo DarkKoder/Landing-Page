@@ -232,3 +232,22 @@ body {
         margin: auto;
         margin-bottom: 10px;
       }
+
+      
+    /* === Footer === */
+    footer {
+      background: #0056d6;
+      color: white;
+      padding: 30px 10%;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    footer div {
+      width: 25%;
+    }
+
+    footer ul {
+      padding-left: 0;
+      margin-left: 0;
+    }
