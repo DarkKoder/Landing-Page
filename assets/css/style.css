@@ -209,3 +209,26 @@ body {
         max-width: 500px;
         margin: 30px auto;
       }
+
+      .testimonials {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 50px 10%;
+        text-align: center;
+        background: #fff;
+        color: #0056d6;
+      }
+      .testimonial {
+        width: 20%;
+      }
+
+      .testimonial .photo {
+        width: 100px;
+        height: 100px;
+        border: 1px solid #0056d6;
+        color: #ccc;
+        border-radius: 50%;
+        margin: auto;
+        margin-bottom: 10px;
+      }
